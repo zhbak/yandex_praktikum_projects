@@ -43,6 +43,10 @@
 - `quantity` — количество товара в заказе;
 - `price` — цена товара.
 
+## Материалы
+- [Презентация](https://github.com/zhbak/yandex_praktikum_projects/blob/main/Анализ%20товарного%20ассортимента/Презентация_анализ_товарного_асортимента.pdf)
+- [Дашборд](https://public.tableau.com/app/profile/kirill4583/viz/____ya_prak/Dashboard1)
+
 ## Используемые инструменты: 
 *Python, Pandas, Matplotlib, SciPy, Анализ текстовых наименований, A/B-тестирование, проверка статистических гипотез*
 
