@@ -56,7 +56,7 @@
 - `text` — текст обзора.
 
 ## Схема базы данных: 
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/44446481/206461955-6cce3f39-53ef-48d7-b312-cd03b7c6f050.png)
 
 ## Используемые инструменты: 
 *Python, Pandas, Sqlalchemy, SQL*
